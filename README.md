@@ -2,6 +2,16 @@
 
 UserForge is a **Python-based username wordlist generator** designed for **ethical hacking, penetration testing labs, and educational purposes**.  
 It helps generate realistic username combinations using **names, roles, separators, and case variations**.
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/745f5b28-cbc7-4100-8d1d-89c6020365ff"
+    alt="image"
+    width="690"
+    height="432"
+  />
+</p>
+
+
 
 ---
 
